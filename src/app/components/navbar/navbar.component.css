@@ -1,0 +1,40 @@
+.nav-all {
+    background-color:#4BD6F4 !important;  
+    padding-right: 8px;
+    padding-left: 8px;
+    font-size: 23px;
+}
+
+.title1 {
+    text-decoration: none;
+    color: #C00A7F;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.title1:hover {
+    color: black !important;
+}
+
+.sign a{
+    color: #C00A7F !important;
+    display: inline;
+    text-decoration: none;
+}
+
+.sign a:hover {
+    color: black !important;
+}
+
+.nav-item a{
+    color: #C00A7F !important;
+}
+
+.nav-item a:hover {
+    color: black !important;
+}
+
+.navbar.scrolled {
+    background-color: #fff !important;
+    transition: background-color 200ms linear;
+  }
